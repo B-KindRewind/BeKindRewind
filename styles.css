@@ -1,0 +1,79 @@
+            body{background-color: #FFFA9E;
+                }
+            hr {border-style: none;
+                border-top-style: dotted;
+                border-color: #81B0B3;
+                border-width: 10px;
+                width: 17%;
+                }
+            img {height: 35px;
+                }
+            header{box-sizing: border-box;
+                }
+              body {margin: 0;
+              }
+              header {background-color: #f1f1f1;
+                padding: 15px;
+                text-align: center;
+              }
+              .topnav {
+                overflow: hidden;
+                background-color: #90B381;
+              }
+              .topnav a {
+                float: left;
+                display: block;
+                color: #fffdd0;
+                text-align: center;
+                padding: 13px 15px;
+                text-decoration: none;
+              }
+              .topnav a:hover {
+                background-color: #5FA7B8;
+                color: #FFFA9E;
+              }
+            
+            h1 {text-align: center;
+                color: #B33838;
+                font-family: Arial, Helvetica, sans-serif;
+                font-weight: bold;
+            }
+            h2 {color:#5FA7B8;
+                font-family: Arial, Helvetica, sans-serif;
+                margin: 10px;}
+            h3 {color:#5FA7B8;
+                font-family: Arial, Helvetica, sans-serif;
+                margin: 10px
+            }
+            p{color:#90B381;
+                font-family: Arial, Helvetica, sans-serif;
+                text-align: center;
+                margin: 10px;
+                border-style: solid; 
+                border: solid 1px #5FA7B8;
+                border-width: 5px;
+                width: 90%;
+                border-radius: 5px;
+                background-color: #fffdd0;
+                padding-top: 3px;
+                padding-right: 3px;
+                padding-bottom: 3px;
+                padding-left: 3px;
+
+                
+            }
+            ul{color:#90B381;
+                font-family: Arial, Helvetica, sans-serif;
+                margin: 15px;
+            }
+            ol{color:#90B381;
+                font-family: Arial, Helvetica, sans-serif;
+                margin: 15px;
+            }
+            form{color:#5FA7B8;
+                font-family: Arial, Helvetica, sans-serif;
+                margin: 15px;}
+            table{color:#5FA7B8;
+                font-family: Arial, Helvetica, sans-serif;
+                text-align: center;
+                margin: 15px;}
